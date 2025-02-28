@@ -533,45 +533,5 @@
       "adId": 106,
       "imageUrl": "https://cco-public.s3.amazonaws.com/abe93550dec6d4a64d38d36a1a7d15c99714f54153a739c6874a5517830cad31.jpg",
       "advertiser": "clickup"
-    },
-    {
-      "adId": 107,
-      "imageUrl": "https://cco-public.s3.amazonaws.com/85ccc499d51f866c6ee6b9c128543ba792770e821e8aa42d3aa0780821e5b18e.jpg",
-      "advertiser": "clickup"
-    },
-    {
-      "adId": 108,
-      "imageUrl": "https://cco-public.s3.amazonaws.com/f4aebb31d673e044e541c95161b0d73880d21f05d5c6296fbf2d5a7532155a2c.jpg",
-      "advertiser": "clickup"
-    },
-    {
-      "adId": 109,
-      "imageUrl": "https://cco-public.s3.amazonaws.com/cb7edf98eb38e37bfde578b6b80fbcfb79e88cc92e142b44ec54235f64f5eb4b.jpg",
-      "advertiser": "clickup"
-    },
-    {
-      "adId": 110,
-      "imageUrl": "https://cco-public.s3.amazonaws.com/cb7de8eba4d1303d02123411eeb78f85c670d1bd4c8bfc3500884f2d5e7b352f.jpg",
-      "advertiser": "clickup"
-    },
-    {
-      "adId": 111,
-      "imageUrl": "https://cco-public.s3.amazonaws.com/3a5416c8f2a84d2a774ec97bd3138f52460d3af2495e9b772207822b6cabb667.jpg",
-      "advertiser": "clickup"
-    },
-    {
-      "adId": 112,
-      "imageUrl": "https://cco-public.s3.amazonaws.com/c0ee336aa9d257dbcdc7e3dc533ad4d741f40f9535a44732d1e65a8935ce9a41.jpg",
-      "advertiser": "clickup"
-    },
-    {
-      "adId": 113,
-      "imageUrl": "https://cco-public.s3.amazonaws.com/bd7af7f5a0a451cd23b96d2b4be6a78c47afd9b3f0186cf3f86b07a2bf2efb47.jpg",
-      "advertiser": "clickup"
-    },
-    {
-      "adId": 114,
-      "imageUrl": "https://cco-public.s3.amazonaws.com/a1083476e9993a0e70c800e5e078ae3723d2643598120d2580f6066e9ba1a89d.jpg",
-      "advertiser": "clickup"
     }
   ]

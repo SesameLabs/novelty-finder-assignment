@@ -14,61 +14,28 @@ def detect_novelty(ads_list):
 
     for ad in ads_list:
         prompt = """
-        You are an expert creative strategist with deep expertise in classifying visual ad formats. Your task is to analyze each ad image provided and determine whether it introduces a novel visual format or matches an existing format already known.
+        Analyze this ad image and determine if it represents a new visual format or matches an existing format.
 
-        A visual format is defined strictly by visual characteristics and must NOT rely on advertiser-specific imagery or branding elements. Formats fall into exactly one of these categories:
+        A format is defined by how the visual elements are arranged (like split screen, grid layout, etc).
 
-        Structural Layout / Arrangement-Based Format:
-        - Defined by arrangement of elements (e.g., Split screen, Multi-product grid, Framing, Feature tags with arrows, Bottom headline overlay, Centered text with product backdrop).
+        Review the list of existing formats below carefully. For your response:
+        1. If the ad matches ANY existing format:
+           - Set isNewFormat to false
+           - Use the matching format's name as formatName
+           - Use the matching format's description as formatDescription
+        2. If the ad doesn't match any existing format:
+           - Set isNewFormat to true
+           - Create a new descriptive formatName
+           - Provide a clear formatDescription
 
-        UI / App Mimicry:
-        - Mimics common digital interfaces or applications (e.g., Chat bubbles, Notification popups, Social media feed, Message threads, App store listings).
-
-        Physical / Real-world Mimicry:
-        - Mimics real-life objects or surfaces (e.g., Post-It notes, Torn paper, Billboards, Signboards, Newspaper layout, Magazine covers).
-
-        Meme:
-        - Uses recognizable meme structures or templates (e.g., Drake Reaction Meme, Distracted Boyfriend, Expanding Brain, 'This is fine' dog meme).
-
-        Graphic Design Style:
-        - Distinct artistic or graphic styles (e.g., Pop Art, Watercolor, Retro Illustration, Comic book style, Minimalist flat design).
-
-        Familiar Conceptual Structures:
-        - Common conceptual layouts or patterns widely recognized (e.g., Venn Diagrams, Quizzes, Tic Tac Toe grids, Scrabble boards, Checklists, Before-and-after comparisons).
-
-        Important Considerations for Naming Formats:
-        - Clearly reference the primary defining visual attribute.
-
-        For Structural Layout, include the dominant content type (headline, lifestyle shot, studio shot, product close-up, offer badge) but NOT specific details (e.g., do NOT specify 'woman on a beach').
-        In general format name and format description not never be speicifc to the content type or advertiser-specific content.
-        In terms of permissible dominant content types that deserve contributing to format name and format description, only include the following:
-        - Lifestyle shot
-        - Studio shot
-        - Product close-up
-        - Feature tag
-        - User-generated content (UGC)
-        - Before and after images
-        - Testimonials
-        - Icons or graphics or illustrations
-        
-
-        Examples:
-
-        Correct: 'Lifestyle shot with bottom headline overlay'
-
-        Incorrect: 'Woman on beach lifestyle shot'
-
-        Existing Formats:
-        You will be provided a list of existing format names and descriptions. If the analyzed ad matches one of these formats, set "isNewFormat" to false, and return the existing format's name and description. Otherwise, set "isNewFormat" to true and provide a new, clear format name and a detailed description.
-
-        Your Output Format (STRICTLY adhere to this JSON format):
+        Provide your response in JSON format:
         {
         "isNewFormat": true/false,
-        "formatName": "Clear and descriptive format name based on rules above",
-        "formatDescription": "Detailed description of the visual characteristics defining this format."
+        "formatName": "Name of the format",
+        "formatDescription": "Description of the visual format"
         }
 
-        Your response must be concise, accurate, and strictly follow the guidelines above to ensure the correct classification of visual ad formats.
+        Existing Formats:
         """
         response = openai.chat.completions.create(
             model="gpt-4o",

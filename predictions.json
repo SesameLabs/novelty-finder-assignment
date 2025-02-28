@@ -1,0 +1,537 @@
+[
+  {
+    "adId": 0,
+    "isNewFormat": false,
+    "formatName": "Comparison Split Screen"
+  },
+  {
+    "adId": 1,
+    "isNewFormat": true,
+    "formatName": "Horizontal Banner Stack"
+  },
+  {
+    "adId": 2,
+    "isNewFormat": true,
+    "formatName": "Split Screen Promo Offer"
+  },
+  {
+    "adId": 3,
+    "isNewFormat": true,
+    "formatName": "Testimonial Product Highlight"
+  },
+  {
+    "adId": 4,
+    "isNewFormat": true,
+    "formatName": "Snow Globe Product Showcase"
+  },
+  {
+    "adId": 5,
+    "isNewFormat": true,
+    "formatName": "True or False Skin Benefits"
+  },
+  {
+    "adId": 6,
+    "isNewFormat": true,
+    "formatName": "Product Infographic Spotlight"
+  },
+  {
+    "adId": 7,
+    "isNewFormat": true,
+    "formatName": "Vertical Product Lineup with Central Call-to-Action"
+  },
+  {
+    "adId": 8,
+    "isNewFormat": true,
+    "formatName": "Outdoor Testimonial Feature"
+  },
+  {
+    "adId": 9,
+    "isNewFormat": true,
+    "formatName": "Central Product with Ingredient Highlights"
+  },
+  {
+    "adId": 10,
+    "isNewFormat": false,
+    "formatName": "Outdoor Testimonial Feature"
+  },
+  {
+    "adId": 11,
+    "isNewFormat": true,
+    "formatName": "Angled Product Array with Feature Highlights"
+  },
+  {
+    "adId": 12,
+    "isNewFormat": true,
+    "formatName": "Lifestyle Focused Product Display"
+  },
+  {
+    "adId": 13,
+    "isNewFormat": true,
+    "formatName": "Dual Portrait Product Display"
+  },
+  {
+    "adId": 14,
+    "isNewFormat": true,
+    "formatName": "Social Message Style Promo"
+  },
+  {
+    "adId": 15,
+    "isNewFormat": true,
+    "formatName": "Quad Image Black Friday Promo"
+  },
+  {
+    "adId": 16,
+    "isNewFormat": true,
+    "formatName": "Search Simulation Promo"
+  },
+  {
+    "adId": 17,
+    "isNewFormat": true,
+    "formatName": "Product Comparison with Testimonial"
+  },
+  {
+    "adId": 18,
+    "isNewFormat": true,
+    "formatName": "Personalized Product Showcase"
+  },
+  {
+    "adId": 19,
+    "isNewFormat": true,
+    "formatName": "Quiz Call-to-Action with Product Array"
+  },
+  {
+    "adId": 20,
+    "isNewFormat": true,
+    "formatName": "Personal Testimonial with Feature Highlights"
+  },
+  {
+    "adId": 21,
+    "isNewFormat": true,
+    "formatName": "Benefits List with Central Product Image"
+  },
+  {
+    "adId": 22,
+    "isNewFormat": true,
+    "formatName": "Seasonal Product Highlight with Romantic Theme"
+  },
+  {
+    "adId": 23,
+    "isNewFormat": false,
+    "formatName": "Product Comparison with Testimonial"
+  },
+  {
+    "adId": 24,
+    "isNewFormat": true,
+    "formatName": "Comparative Product Showcase"
+  },
+  {
+    "adId": 25,
+    "isNewFormat": true,
+    "formatName": "Paired Product With Urgent Call-to-Action"
+  },
+  {
+    "adId": 26,
+    "isNewFormat": false,
+    "formatName": "Personal Testimonial with Feature Highlights"
+  },
+  {
+    "adId": 27,
+    "isNewFormat": true,
+    "formatName": "Testimonial with Product Array and Price Highlight"
+  },
+  {
+    "adId": 28,
+    "isNewFormat": true,
+    "formatName": "Lifestyle Relaxation Promo"
+  },
+  {
+    "adId": 29,
+    "isNewFormat": true,
+    "formatName": "Minimalist Product Spotlight"
+  },
+  {
+    "adId": 30,
+    "isNewFormat": true,
+    "formatName": "Tri-Image Promotional Grid"
+  },
+  {
+    "adId": 31,
+    "isNewFormat": true,
+    "formatName": "Illuminated Product Array with Promotion"
+  },
+  {
+    "adId": 32,
+    "isNewFormat": true,
+    "formatName": "Clear Skin Promise with Bold Discounts"
+  },
+  {
+    "adId": 33,
+    "isNewFormat": false,
+    "formatName": "Illuminated Product Array with Promotion"
+  },
+  {
+    "adId": 34,
+    "isNewFormat": true,
+    "formatName": "Call-To-Action Interaction Overlay"
+  },
+  {
+    "adId": 35,
+    "isNewFormat": false,
+    "formatName": "Quad Image Black Friday Promo"
+  },
+  {
+    "adId": 36,
+    "isNewFormat": false,
+    "formatName": "Social Message Style Promo"
+  },
+  {
+    "adId": 37,
+    "isNewFormat": true,
+    "formatName": "Central Product with Highlighted Benefits"
+  },
+  {
+    "adId": 38,
+    "isNewFormat": false,
+    "formatName": "Clear Skin Promise with Bold Discounts"
+  },
+  {
+    "adId": 39,
+    "isNewFormat": true,
+    "formatName": "Valentine's Day Triple Product Focus"
+  },
+  {
+    "adId": 40,
+    "isNewFormat": true,
+    "formatName": "Valentine's Day Sale with Product Display"
+  },
+  {
+    "adId": 41,
+    "isNewFormat": true,
+    "formatName": "Romantic Product Highlight"
+  },
+  {
+    "adId": 42,
+    "isNewFormat": true,
+    "formatName": "Personalized Light Therapy Focus"
+  },
+  {
+    "adId": 43,
+    "isNewFormat": true,
+    "formatName": "Urgency Highlight with Button"
+  },
+  {
+    "adId": 44,
+    "isNewFormat": true,
+    "formatName": "Personalized Treatment Feature with Promotional Accent"
+  },
+  {
+    "adId": 45,
+    "isNewFormat": false,
+    "formatName": "Call-To-Action Interaction Overlay"
+  },
+  {
+    "adId": 46,
+    "isNewFormat": true,
+    "formatName": "Artistic Skin Therapy Promotion"
+  },
+  {
+    "adId": 47,
+    "isNewFormat": true,
+    "formatName": "Device Showcase with Minimalist Text"
+  },
+  {
+    "adId": 48,
+    "isNewFormat": true,
+    "formatName": "Editorial Ad with Product Background"
+  },
+  {
+    "adId": 49,
+    "isNewFormat": true,
+    "formatName": "Social Media Post Mockup"
+  },
+  {
+    "adId": 50,
+    "isNewFormat": true,
+    "formatName": "Holiday Movie Character Promo"
+  },
+  {
+    "adId": 51,
+    "isNewFormat": true,
+    "formatName": "Comparison Checklist with Product Array"
+  },
+  {
+    "adId": 52,
+    "isNewFormat": false,
+    "formatName": "Holiday Movie Character Promo"
+  },
+  {
+    "adId": 53,
+    "isNewFormat": false,
+    "formatName": "Comparison Checklist with Product Array"
+  },
+  {
+    "adId": 54,
+    "isNewFormat": false,
+    "formatName": "Comparison Checklist with Product Array"
+  },
+  {
+    "adId": 55,
+    "isNewFormat": true,
+    "formatName": "Outdoor Debate Setup"
+  },
+  {
+    "adId": 56,
+    "isNewFormat": true,
+    "formatName": "Festive Character Promotion"
+  },
+  {
+    "adId": 57,
+    "isNewFormat": true,
+    "formatName": "Black Friday Billboard Highlight"
+  },
+  {
+    "adId": 58,
+    "isNewFormat": true,
+    "formatName": "Prime Day Product Display"
+  },
+  {
+    "adId": 59,
+    "isNewFormat": true,
+    "formatName": "Quad Product Layout with Centered Message"
+  },
+  {
+    "adId": 60,
+    "isNewFormat": true,
+    "formatName": "Split Text Alert with Image Background"
+  },
+  {
+    "adId": 61,
+    "isNewFormat": true,
+    "formatName": "Simple Board Announcement"
+  },
+  {
+    "adId": 62,
+    "isNewFormat": false,
+    "formatName": "Outdoor Debate Setup"
+  },
+  {
+    "adId": 63,
+    "isNewFormat": false,
+    "formatName": "Split Text Alert with Image Background"
+  },
+  {
+    "adId": 64,
+    "isNewFormat": false,
+    "formatName": "Simple Board Announcement"
+  },
+  {
+    "adId": 65,
+    "isNewFormat": true,
+    "formatName": "Chalkboard Advocacy Message"
+  },
+  {
+    "adId": 66,
+    "isNewFormat": true,
+    "formatName": "Festive Character with Promotional Signs"
+  },
+  {
+    "adId": 67,
+    "isNewFormat": true,
+    "formatName": "Black Friday Extended Promotion"
+  },
+  {
+    "adId": 68,
+    "isNewFormat": true,
+    "formatName": "Product Benefit Highlight with Feature Arrows"
+  },
+  {
+    "adId": 69,
+    "isNewFormat": false,
+    "formatName": "Central Product with Highlighted Benefits"
+  },
+  {
+    "adId": 70,
+    "isNewFormat": true,
+    "formatName": "Comparison Advert with Origin Highlight"
+  },
+  {
+    "adId": 71,
+    "isNewFormat": false,
+    "formatName": "Testimonial Product Highlight"
+  },
+  {
+    "adId": 72,
+    "isNewFormat": false,
+    "formatName": "Black Friday Billboard Highlight"
+  },
+  {
+    "adId": 73,
+    "isNewFormat": true,
+    "formatName": "Non-Toxic Laundry Promotion with Family Imagery"
+  },
+  {
+    "adId": 74,
+    "isNewFormat": true,
+    "formatName": "Laundry Skeleton Advocacy"
+  },
+  {
+    "adId": 75,
+    "isNewFormat": true,
+    "formatName": "Comparison Checklist with Product Array"
+  },
+  {
+    "adId": 76,
+    "isNewFormat": true,
+    "formatName": "Holiday Urgency Promotion"
+  },
+  {
+    "adId": 77,
+    "isNewFormat": true,
+    "formatName": "Utility Pole Poster with Tear-Off Tabs"
+  },
+  {
+    "adId": 78,
+    "isNewFormat": false,
+    "formatName": "Outdoor Debate Setup"
+  },
+  {
+    "adId": 79,
+    "isNewFormat": true,
+    "formatName": "Laundry Skin Concern Highlight"
+  },
+  {
+    "adId": 80,
+    "isNewFormat": true,
+    "formatName": "Dilemma Meme Promotion"
+  },
+  {
+    "adId": 81,
+    "isNewFormat": true,
+    "formatName": "Product Comparison with Emphasis Symbols"
+  },
+  {
+    "adId": 82,
+    "isNewFormat": true,
+    "formatName": "Before and After Product Comparison"
+  },
+  {
+    "adId": 83,
+    "isNewFormat": true,
+    "formatName": "Halloween Advocacy Display"
+  },
+  {
+    "adId": 84,
+    "isNewFormat": false,
+    "formatName": "Product Comparison with Emphasis Symbols"
+  },
+  {
+    "adId": 85,
+    "isNewFormat": true,
+    "formatName": "Laundry Hazard Awareness with Product Recommendations"
+  },
+  {
+    "adId": 86,
+    "isNewFormat": false,
+    "formatName": "Laundry Hazard Awareness with Product Recommendations"
+  },
+  {
+    "adId": 87,
+    "isNewFormat": true,
+    "formatName": "Product Aisle and Ranked Recommendations"
+  },
+  {
+    "adId": 88,
+    "isNewFormat": true,
+    "formatName": "Interactive Truth Discovery"
+  },
+  {
+    "adId": 89,
+    "isNewFormat": true,
+    "formatName": "Program Selection Grid with Seasonal Theme"
+  },
+  {
+    "adId": 90,
+    "isNewFormat": true,
+    "formatName": "Vocational Training Promotion with Call-to-Action"
+  },
+  {
+    "adId": 91,
+    "isNewFormat": true,
+    "formatName": "Interactive Checklist Ad"
+  },
+  {
+    "adId": 92,
+    "isNewFormat": true,
+    "formatName": "Interactive Education Prompt"
+  },
+  {
+    "adId": 93,
+    "isNewFormat": false,
+    "formatName": "Program Selection Grid with Seasonal Theme"
+  },
+  {
+    "adId": 94,
+    "isNewFormat": true,
+    "formatName": "Program Selection Grid with Quiz Prompt"
+  },
+  {
+    "adId": 95,
+    "isNewFormat": false,
+    "formatName": "Vocational Training Promotion with Call-to-Action"
+  },
+  {
+    "adId": 96,
+    "isNewFormat": true,
+    "formatName": "Warning Sign Promotion"
+  },
+  {
+    "adId": 97,
+    "isNewFormat": true,
+    "formatName": "Electrical Safety Call-Out"
+  },
+  {
+    "adId": 98,
+    "isNewFormat": true,
+    "formatName": "Cosmetology Quiz Promotion"
+  },
+  {
+    "adId": 99,
+    "isNewFormat": false,
+    "formatName": "Vocational Training Promotion with Call-to-Action"
+  },
+  {
+    "adId": 100,
+    "isNewFormat": true,
+    "formatName": "Nursing Quiz Call-to-Action"
+  },
+  {
+    "adId": 101,
+    "isNewFormat": true,
+    "formatName": "Educational Program Selection Tree"
+  },
+  {
+    "adId": 102,
+    "isNewFormat": false,
+    "formatName": "Educational Program Selection Tree"
+  },
+  {
+    "adId": 103,
+    "isNewFormat": false,
+    "formatName": "Educational Program Selection Tree"
+  },
+  {
+    "adId": 104,
+    "isNewFormat": true,
+    "formatName": "Vibrant Product Display with Discount Emphasis"
+  },
+  {
+    "adId": 105,
+    "isNewFormat": true,
+    "formatName": "Central Product Benefit Grid"
+  },
+  {
+    "adId": 106,
+    "isNewFormat": true,
+    "formatName": "Multisection Template Introduction"
+  }
+]
