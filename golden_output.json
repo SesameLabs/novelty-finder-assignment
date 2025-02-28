@@ -1,0 +1,750 @@
+[
+  {
+    "adId": 0,
+    "imageUrl": "https://cco-public.s3.amazonaws.com/0fe5e6805cc44959e8b6682eca18226ac1e5837c57e1f4d97bc859ea24479f83.jpg",
+    "isNewFormat": false,
+    "formatName": "Split screen comparison",
+    "formatDescription": "A split screen format featuring a side-by-side comparison. Each side includes a product close-up with bullet points highlighting features or benefits."
+  },
+  {
+    "adId": 1,
+    "imageUrl": "https://cco-public.s3.amazonaws.com/6ced986442688dac8e6efe9582e49e882d7c68e7a837c28c303c4ede40f70098.jpg", 
+    "isNewFormat": true,
+    "formatName": "Vertical product stack",
+    "formatDescription": "A vertically aligned layout featuring multiple horizontal color bands. Each band includes a close-up image of a product with corresponding text, set against a consistent backdrop. These elements are arranged to highlight different product varieties or options."
+  },
+  {
+    "adId": 2,
+    "imageUrl": "https://cco-public.s3.amazonaws.com/c45c907b33d19694497f05fc4f56fa73e246b948df2b98ee7ad7843c6d41ea4f.jpg",
+    "isNewFormat": true,
+    "formatName": "Lifestyle shot and product close-up",
+    "formatDescription": "A split screen layout featuring a lifestyle shot on one side and a product close-up on the other. The layout integrates promotional text and offer details in a distinct section, creating a balanced emphasis between lifestyle imagery and product-focused information."
+  },
+  {
+    "adId": 3,
+    "imageUrl": "https://cco-public.s3.amazonaws.com/a1e86319ec62324833d33fb50f20af083736fc234417fa35a15a43f895237c96.jpg",
+    "isNewFormat": true,
+    "formatName": "Testimonial block with product",
+    "formatDescription": "This format features a prominent testimonial expressed in a speech bubble design, accompanied by a combination of product close-up and lifestyle imagery. The layout includes scattered fruit graphics to enhance the theme, integrating text and visual elements to emphasize user experience and product appeal."
+  },
+  {
+    "adId": 4,
+    "imageUrl": "https://cco-public.s3.amazonaws.com/efc30b2ec26957b96dd7698ba66bf1508b1e946edb88bb4d013e50ff066bbfa5.jpg",
+    "isNewFormat": true,
+    "formatName": "Product display in snow globe with feature tags",
+    "formatDescription": "This format showcases product packages inside a visually distinct snow globe element. It integrates feature tags on the side with bold text, highlighting key benefits. The layout emphasizes a festive theme while aligning product imagery with promotional messaging."
+  },
+  {
+    "adId": 5,
+    "imageUrl": "https://cco-public.s3.amazonaws.com/967e3f94967f45b6f66504caee3ae8d20e15b3ee08044c145656903551ae361d.jpg",
+    "isNewFormat": true,
+    "formatName": "Interactive quiz with product close-up",
+    "formatDescription": "This format features a lifestyle shot as a background with an interactive quiz element in the foreground, using bold 'True or False' choices. Below, there is a product close-up accompanied by a message to reinforce the call to action. The layout integrates interactive elements with educational text to engage viewers."
+  },
+  {
+    "adId": 6,
+    "imageUrl": "https://cco-public.s3.amazonaws.com/7301c6db2b699f9c74445462319a678152a397ed9fbf01644c6a94f95b939aad.jpg",
+    "isNewFormat": true,
+    "formatName": "Lifestyle shot with numeric feature tags",
+    "formatDescription": "A lifestyle shot featuring a product being held, with bold numeric feature tags alongside. Each numeric tag is associated with brief textual details to highlight product benefits, creating a balanced emphasis between visual appeal and informative content."
+  },
+  {
+    "adId": 7,
+    "imageUrl": "https://cco-public.s3.amazonaws.com/61df3953c0ce80e6caef0ca8fa45881427185ca9d987d2cc11a715beb0099666.jpg",
+    "isNewFormat": true,
+    "formatName": "Product lineup with text overlay",
+    "formatDescription": "A vertically arranged product lineup placed against a solid background. Below the products, there is a prominent central text overlay highlighting key features or promotional messages, followed by additional informative text and a CTA button."
+  },
+  {
+    "adId": 8,
+    "imageUrl": "https://cco-public.s3.amazonaws.com/621d1a8bfee38f070b3362b4e53925eee7ca0b5af1c84c4cfb5580c477f17902.jpg",
+    "isNewFormat": false,
+    "formatName": "Testimonial block with product",
+    "formatDescription": "A layout featuring a product close-up prominently displayed in the foreground. Accompanying this are testimonial messages presented in speech bubble design, each highlighted by star ratings. The format maintains a lifestyle background to enhance the visual context, combining product promotion with customer feedback."
+  },
+  {
+    "adId": 9,
+    "imageUrl": "https://cco-public.s3.amazonaws.com/95f69ba6ca28d47d2f17730740c6574e9c03e46e78051ff9300835e843de903f.jpg",
+    "isNewFormat": true,
+    "formatName": "Product close-up with feature icons and text labels",
+    "formatDescription": "A central product close-up flanked by illustrative icons with corresponding text labels, highlighting key features or ingredients. This layout emphasizes product attributes through visually distinct icons linked by connecting lines, set against a unified background with a call-to-action button."
+  },
+  {
+    "adId": 10,
+    "imageUrl": "https://cco-public.s3.amazonaws.com/12d5ef592dc4bbe2eb44873f3f7156833561120482e3a53062782d438c60450c.jpg",
+    "isNewFormat": false,
+    "formatName": "Product lineup with text overlay",
+    "formatDescription": "A lineup of products displayed with a prominent testimonial text overlay beneath them. The layout integrates a set of lifestyle product images above while combining user feedback and product enthusiasm through text."
+  },
+  {
+    "adId": 11,
+    "imageUrl": "https://cco-public.s3.amazonaws.com/e507115daa36d46cf528def6d0558cb004036bbaf5518ebbb1f396a99ee2e282.jpg",
+    "isNewFormat": false,
+    "formatName": "Product lineup with text overlay",
+    "formatDescription": "A vertically arranged product lineup placed against a solid background. Below the products, there is a prominent central text overlay highlighting key features or promotional messages, followed by additional informative text and a CTA button."
+  },
+  {
+    "adId": 12,
+    "imageUrl": "https://cco-public.s3.amazonaws.com/b25879b73b6e7989cb29c75521e4d7744ae2d68720a0262a2130635f9d9f2288.jpg",
+    "isNewFormat": false,
+    "formatName": "Lifestyle shot and product close-up",
+    "formatDescription": "A split screen layout featuring a lifestyle shot on one side and a product close-up on the other. The layout integrates promotional text and offer details in a distinct section, creating a balanced emphasis between lifestyle imagery and product-focused information."
+  },
+  {
+    "adId": 13,
+    "imageUrl": "https://cco-public.s3.amazonaws.com/981f2dc4b2c8fc1971c9f84cfcd45ec5d34e930d8884260e32482834b401faf9.jpg",
+    "isNewFormat": true,
+    "formatName": "Advertorial",
+    "formatDescription": "A vertically split layout featuring two lifestyle shots side by side, accompanied by a prominent article-style headline and byline above. The emphasis is on presenting the product in use within a lifestyle context, paired with an editorial introduction."
+  },
+  {
+    "adId": 14,
+    "imageUrl": "https://cco-public.s3.amazonaws.com/dc1ea1444bff3d0731433bc4d71dcd544004c8108b33fea14137ef422cf0008b.jpg",
+    "isNewFormat": true,
+    "formatName": "iMessage Group Chat",
+    "formatDescription": "Mimics common digital interfaces or applications, such as chat bubbles or message threads, by presenting text in a familiar conversational layout to engage users through relatable and recognizable UI elements."
+  },
+  {
+    "adId": 15,
+    "imageUrl": "https://cco-public.s3.amazonaws.com/112e9fdc1dff57b6335e88de73c9439629e578e304bf2c136d8c6d59f78f98ef.jpg",
+    "isNewFormat": true,
+    "formatName": "Grid layout with lifestyle shots and central text",
+    "formatDescription": "A grid layout featuring a combination of lifestyle shots with product interaction. The center of the layout prominently displays a promotional message, creating a clear emphasis between product use imagery and sales information."
+  },
+  {
+    "adId": 16,
+    "imageUrl": "https://cco-public.s3.amazonaws.com/90ac8fa2fb3240aa5d41432f560b7c4aebd760b5dec89ddbf0219493c9862887.jpg",
+    "isNewFormat": true,
+    "formatName": "Google Search Results",
+    "formatDescription": "This format mimics a search engine interface with a visible search query and suggested results, combined with a product close-up underneath. A promotional offer is highlighted in a circular element, merging digital interface elements with retail promotion."
+  },
+  {
+    "adId": 17,
+    "imageUrl": "https://cco-public.s3.amazonaws.com/a63f1576a888d11981e15e85be97328282d10cfccefe96bb35b044b9730e6728.jpg",
+    "isNewFormat": false,
+    "formatName": "Before and after comparison with product close-up",
+    "formatDescription": "An arrangement showcasing side-by-side before and after imagery to demonstrate the product's effectiveness. Accompanied by a close-up of the product packaging, emphasizing the transformation through visual evidence."
+  },
+  {
+    "adId": 18,
+    "imageUrl": "https://cco-public.s3.amazonaws.com/37acd0023f0ea0850654b60d8250e143218a617cab2310587bd9b89c9781a501.jpg",
+    "isNewFormat": true,
+    "formatName": "Lifestyle shot with article-style text box",
+    "formatDescription": "A lifestyle shot featuring a person holding a product, accompanied by a prominent article-style text box overlay. The text box includes a headline and additional descriptive text, creating an editorial feel within the ad."
+  },
+  {
+    "adId": 19,
+    "imageUrl": "https://cco-public.s3.amazonaws.com/0ff5520d42a31f78b9fda48a9d9fd5f9f501da3b2b5ea86a3f24ebaf598e3b7b.jpg",
+    "isNewFormat": false,
+    "formatName": "Product lineup with text overlay",
+    "formatDescription": "A layout featuring a product lineup prominently displayed with a central call-to-action element designed as a quiz prompt. The presentation integrates motivational text above, guiding users to interact with the promotional message while focusing on the product assortment."
+  },
+  {
+    "adId": 20,
+    "imageUrl": "https://cco-public.s3.amazonaws.com/a079115fe613b19843bfd5c7b2cdb04b004de127ce4020f45e8b460031462dac.jpg",
+    "isNewFormat": false,
+    "formatName": "Lifestyle shot with numeric feature tags",
+    "formatDescription": "A lifestyle shot featuring a product being held, with bold numeric feature tags alongside. Each numeric tag is associated with brief textual details to highlight product benefits, creating a balanced emphasis between visual appeal and informative content."
+  },
+  {
+    "adId": 21,
+    "imageUrl": "https://cco-public.s3.amazonaws.com/8e0bd8f6e6aad11200d1ec520896f11285a78ee06e3e08a4581ecd63efcafd77.jpg",
+    "isNewFormat": false,
+    "formatName": "Lifestyle shot with numeric feature tags",
+    "formatDescription": "A lifestyle shot featuring a product being held, with bold numeric feature tags alongside. Each numeric tag is associated with brief textual details to highlight product benefits, creating a balanced emphasis between visual appeal and informative content."
+  },
+  {
+    "adId": 22,
+    "imageUrl": "https://cco-public.s3.amazonaws.com/d88da4eb422ccad3f9dbe646502944f2b4d31be4f3b1e969fba8e64ebd259e0c.jpg",
+    "isNewFormat": true,
+    "formatName": "Product close-up with Valentine's theme background",
+    "formatDescription": "A product close-up set against a vibrant red background, incorporating thematic elements like floating hearts. A prominent Valentine's themed text overlay is paired with additional product information, creating a festive and romantic appeal."
+  },
+  {
+    "adId": 23,
+    "imageUrl": "https://cco-public.s3.amazonaws.com/3796d2e3b49de0b5a9221340530938958c2ab7cafddb90ca41083549becf5ba5.jpg",
+    "isNewFormat": false,
+    "formatName": "Before and after comparison with product close-up",
+    "formatDescription": "A layout featuring a product close-up alongside a side-by-side before-and-after image comparison. The upper section includes a promotional text banner for offers, while focusing on product efficacy and results."
+  },
+  {
+    "adId": 24,
+    "imageUrl": "https://cco-public.s3.amazonaws.com/11ef05746d84944d5b60261fccec7367ae975b89a71081233af3bdc2d3b3f3b8.jpg",
+    "isNewFormat": false,
+    "formatName": "Split screen with lifestyle shot and product close-up",
+    "formatDescription": "A split screen layout featuring a lifestyle shot on one side and a product close-up on the other. The layout integrates promotional text and offer details in a distinct section, creating a balanced emphasis between lifestyle imagery and product-focused information."
+  },
+  {
+    "adId": 25,
+    "imageUrl": "https://cco-public.s3.amazonaws.com/11fa672a66666513c7e8bd15afb087dc5300d7de48683dc76a8e889e9fa5ee9f.jpg",
+    "isNewFormat": false,
+    "formatName": "Product lineup with central text overlay",
+    "formatDescription": "A vertically arranged product lineup placed against a solid background. Below the products, there is a prominent central text overlay highlighting key features or promotional messages, followed by additional informative text and a CTA button."
+  },
+  {
+    "adId": 26,
+    "imageUrl": "https://cco-public.s3.amazonaws.com/8813299dcea81fbc4f2249198b608c235b6e91c625372696c85d1aab2631dd99.jpg",
+    "isNewFormat": true,
+    "formatName": "Lifestyle shot with promotional text overlay",
+    "formatDescription": "A lifestyle shot prominently featuring a person using a product, accompanied by large, bold promotional text overlay. The layout emphasizes the offer and includes a call-to-action button, integrating the promotional message with the visual context."
+  },
+  {
+    "adId": 27,
+    "imageUrl": "https://cco-public.s3.amazonaws.com/3b3573ed2a5395ea65c80eca894b4284a2812570bde5e797288626ff12393552.jpg",
+    "isNewFormat": false,
+    "formatName": "Product lineup with testimonial text overlay",
+    "formatDescription": "A lineup of products displayed with a prominent testimonial text overlay beneath them. The layout integrates a set of lifestyle product images above while combining user feedback and product enthusiasm through text."
+  },
+  {
+    "adId": 28,
+    "imageUrl": "https://cco-public.s3.amazonaws.com/e72fa4483319cfd3320964b3a763fe52390ba2c21cdf57c80553bb30e5ed25b2.jpg",
+    "isNewFormat": false,
+    "formatName": "Lifestyle shot with promotional text overlay",
+    "formatDescription": "A lifestyle shot prominently featuring a person using a product, accompanied by large, bold promotional text overlay. The layout emphasizes the offer and includes a call-to-action button, integrating the promotional message with the visual context."
+  },
+  {
+    "adId": 29,
+    "imageUrl": "https://cco-public.s3.amazonaws.com/e5aebbc283486d682beda9920777b614d60947ea31ec1f83265346c3b41c92e5.jpg",
+    "isNewFormat": false,
+    "formatName": "Product close-up with feature icons and text labels",
+    "formatDescription": "A central product close-up flanked by illustrative icons with corresponding text labels, highlighting key features or ingredients. This layout emphasizes product attributes through visually distinct icons linked by connecting lines, set against a unified background with a call-to-action button."
+  },
+  {
+    "adId": 30,
+    "imageUrl": "https://cco-public.s3.amazonaws.com/882b9a2f2d195624475cab15c53e34929191329986802b15d50d3114adebe5d9.jpg",
+    "isNewFormat": false,
+    "formatName": "Grid layout with lifestyle shots and central text",
+    "formatDescription": "A grid layout featuring multiple lifestyle shots of products in use. The top section includes a bold text overlay with promotional messaging, creating a clear separation between imagery and text. The overall design emphasizes visual appeal and product experience."
+  },
+  {
+    "adId": 31,
+    "imageUrl": "https://cco-public.s3.amazonaws.com/0dda3c83b95b05cf450dc0ee09db68818bcb765724134085f4f164d2f6728666.jpg",
+    "isNewFormat": true,
+    "formatName": "Product lineup with handwritten text",
+    "formatDescription": "A layout featuring an arrangement of products with a prominent handwritten-style text overlay in the foreground. The design emphasizes the offer through handwritten typography, creating an informal and eye-catching promotional message."
+  },
+  {
+    "adId": 32,
+    "imageUrl": "https://cco-public.s3.amazonaws.com/a2d0cc9347f206b48da954b0b0bab84cb5856d07feaf1302287426e29fb7af4f.jpg",
+    "isNewFormat": true,
+    "formatName": "Large strike-through text with product close-up",
+    "formatDescription": "A layout featuring a product close-up alongside a list of issues with strike-through text, indicating resolution. The top banner includes a promotional claim, while the bottom highlights a special offer in a contrasting color. This format emphasizes problem-solving and promotional appeal."
+  },
+  {
+    "adId": 33,
+    "imageUrl": "https://cco-public.s3.amazonaws.com/23794bc7a4b91c8d998cfc17f4e0f3382a5c97b7c74c3f844d4039928432b754.jpg",
+    "isNewFormat": false,
+    "formatName": "Product lineup with handwritten text",
+    "formatDescription": "This format features a lineup of products arranged on display platforms. Behind them, a prominent handwritten style sign conveys a promotional offer. The layout emphasizes the offer through informal typography while showcasing the product range."
+  },
+  {
+    "adId": 34,
+    "imageUrl": "https://cco-public.s3.amazonaws.com/7aec69339d1613c2627b15851c005194475dc33d7446a4ba9af465a8fdee22bb.jpg",
+    "isNewFormat": true,
+    "formatName": "Lifestyle shot with incoming call UI mimicry",
+    "formatDescription": "This format features a lifestyle shot integrated with elements mimicking an incoming call interface. It includes call button graphics with options to 'Decline Offer' and 'Get 35% Off', blending digital interaction cues with visual emphasis on the product and message."
+  },
+  {
+    "adId": 35,
+    "imageUrl": "https://cco-public.s3.amazonaws.com/14653de939f78ae86b279292be66b3765e0d285905af9e7f3d8c59c4242260d1.jpg",
+    "isNewFormat": true,
+    "formatName": "Quadrant layout with testimonials and product close-ups",
+    "formatDescription": "A quadrant layout featuring two halves with prominent testimonial sections, each displaying star ratings and user quotes. Below them, product close-ups are presented against a consistent backdrop, creating a structured emphasis on user experience alongside product imagery."
+  },
+  {
+    "adId": 36,
+    "imageUrl": "https://cco-public.s3.amazonaws.com/282dab755381ac7c9e48e5a117485a819195962e7a663cf389656fde9268d739.jpg",
+    "isNewFormat": false,
+    "formatName": "UI mimicry with chat bubbles",
+    "formatDescription": "This format mimics a chat interface with message bubbles resembling a typical messaging app. The conversation includes promotional messaging within the bubble layout, creating a familiar digital interaction experience."
+  },
+  {
+    "adId": 37,
+    "imageUrl": "https://cco-public.s3.amazonaws.com/cbb05605a5de48042c436d34270941b908f1d2134950cf8d6e0a8bbb031dd8c0.jpg",
+    "isNewFormat": false,
+    "formatName": "Lifestyle shot with numeric feature tags",
+    "formatDescription": "A lifestyle shot featuring a product being held, with bold numeric feature tags alongside. Each numeric tag is associated with brief textual details to highlight product benefits, creating a balanced emphasis between visual appeal and informative content."
+  },
+  {
+    "adId": 38,
+    "imageUrl": "https://cco-public.s3.amazonaws.com/3935b2e864b56bfe5c6c6906cb97589b538f861447eb3298ac29a3429777820b.jpg",
+    "isNewFormat": false,
+    "formatName": "Large strike-through text with product close-up",
+    "formatDescription": "A layout featuring a product close-up alongside a list of issues with strike-through text, indicating resolution. The top banner includes a promotional claim, while the bottom highlights a special offer in a contrasting color. This format emphasizes problem-solving and promotional appeal."
+  },
+  {
+    "adId": 39,
+    "imageUrl": "https://cco-public.s3.amazonaws.com/379a46ee604769feb6a2ea6741761026ef20a8b10fadb34dba6e19da847fdd99.jpg",
+    "isNewFormat": false,
+    "formatName": "Product close-up with feature icons and text labels",
+    "formatDescription": "A central product close-up flanked by illustrative icons with corresponding text labels, highlighting key features or ingredients. This layout emphasizes product attributes through visually distinct icons linked by connecting lines, set against a unified background with a call-to-action button."
+  },
+  {
+    "adId": 40,
+    "imageUrl": "https://cco-public.s3.amazonaws.com/34b24247755d7df5bfc7efbf46b8e3496ffef3e9250d3786abeae574c54ee9e5.jpg",
+    "isNewFormat": false,
+    "formatName": "Product close-up with text overlay",
+    "formatDescription": "A layout featuring a product close-up with a prominent Valentine's Day themed text overlay, including offer details. The design incorporates a consistent color scheme to emphasize the promotional event, combining product imagery with bold text to highlight the offer."
+  },
+  {
+    "adId": 41,
+    "imageUrl": "https://cco-public.s3.amazonaws.com/07342c85138cfa0bce31e53604a3983bb93a2a8e3a52286180fbf282b360548e.jpg",
+    "isNewFormat": true,
+    "formatName": "Product close-up with floral background",
+    "formatDescription": "A layout featuring a product close-up prominently displayed against a textured floral background. This design incorporates natural elements to enhance the product's aesthetic appeal, creating a visually striking contrast between the product and its organic backdrop."
+  },
+  {
+    "adId": 42,
+    "imageUrl": "https://cco-public.s3.amazonaws.com/1a5eebdfdffac671af017ab8593d886f959be5ca9e1be45c73afcca63098c5fd.jpg",
+    "isNewFormat": true,
+    "formatName": "Painting with cracked skin",
+    "formatDescription": "This layout features a lifestyle shot as the background with a prominent product close-up overlay. The image incorporates a crackled texture effect, emphasizing the skin-related theme. The design integrates large, bold text highlighting the promotional message, combined with a call-to-action button to engage viewers."
+  },
+  {
+    "adId": 43,
+    "imageUrl": "https://cco-public.s3.amazonaws.com/9fd8cb6984444e17cb9e3fa5ca481e76dc8ce68a21b719f9b0a2027a2cf613b2.jpg",
+    "isNewFormat": true,
+    "formatName": "UI mimicry with low inventory alert",
+    "formatDescription": "This format mimics a digital alert interface, featuring a prominent attention-grabbing message 'Almost Sold Out' with an indicator bar showing low inventory. Below this, a 'Shop Now' button emphasizes urgency, combining elements of digital interfaces with promotional messaging to drive immediate action."
+  },
+  {
+    "adId": 44,
+    "imageUrl": "https://cco-public.s3.amazonaws.com/ce042866bd75f1a94216d41ca2330e95976218bd7a10e7ee2ba4f5a17faf6c97.jpg",
+    "isNewFormat": true,
+    "formatName": "Lifestyle shot with feature tags",
+    "formatDescription": "A lifestyle shot featuring a person using a product, accompanied by distinct feature tags highlighting benefits. The design integrates a circular offer badge, emphasizing the promotional aspect while maintaining focus on product usage."
+  },
+  {
+    "adId": 45,
+    "imageUrl": "https://cco-public.s3.amazonaws.com/624f772602873172f3fb59579f5fbb86c93b276ba7ee222ea15067b42d0263e6.jpg",
+    "isNewFormat": true,
+    "formatName": "Product display with AirDrop UI mimicry",
+    "formatDescription": "A layout featuring a product display set within an interface mimicking an AirDrop notification. The design incorporates options to 'Decline' or 'Accept,' blending digital interaction cues with promotional elements to engage the viewer."
+  },
+  {
+    "adId": 46,
+    "imageUrl": "https://cco-public.s3.amazonaws.com/9111a45a4d3b5e7b1bf41101872629cd480119aa6de4674cacba7ec646097cc9.jpg",
+    "isNewFormat": false,
+    "formatName": "Painting with cracked skin",
+    "formatDescription": "This layout features a lifestyle shot as the background with a prominent product close-up overlay. The image incorporates a crackled texture effect, emphasizing the skin-related theme. The design integrates large, bold text highlighting the promotional message, combined with a call-to-action button to engage viewers."
+  },
+  {
+    "adId": 47,
+    "imageUrl": "https://cco-public.s3.amazonaws.com/6d21503c5d1d39228784e7ea4a56622d8b3423641acc32cbf56693bd39916b16.jpg",
+    "isNewFormat": false,
+    "formatName": "Product close-up with text overlay",
+    "formatDescription": "A visually distinct format featuring a close-up of the product prominently displayed against a textured background. The bold text overlay highlights the product's unique features or benefits, creating a strong focal point combining visual appeal with informative content."
+  },
+  {
+    "adId": 48,
+    "imageUrl": "https://cco-public.s3.amazonaws.com/b07ab939f5761321f669acb59a66be0aa1da0bda3b2733ca1eb498dd2c0806f9.jpg",
+    "isNewFormat": false,
+    "formatName": "Advertorial",
+    "formatDescription": "A lifestyle shot featuring a person holding a product, accompanied by a prominent article-style text box overlay. The text box includes a headline and additional descriptive text, creating an editorial feel within the ad."
+  },
+  {
+    "adId": 49,
+    "imageUrl": "https://cco-public.s3.amazonaws.com/27f122b6b57b5f40316c5b6c420459ed8117b978c24ac137c44c7bd69eb087f8.jpg",
+    "isNewFormat": true,
+    "formatName": "UI mimicry with social media post format",
+    "formatDescription": "This format mimics a social media interface, incorporating elements such as user profile, timestamp, and interaction metrics. The design emphasizes a sense of authenticity and engagement by replicating digital social interaction cues."
+  },
+  {
+    "adId": 50,
+    "imageUrl": "https://cco-public.s3.amazonaws.com/f4959fbbfcd38fd027d70c7424f827735b1e7194c392c98e45b5741e93541920.jpg",
+    "isNewFormat": true,
+    "formatName": "Meme with top and bottom text overlay",
+    "formatDescription": "A layout using a recognizable meme structure, featuring a prominent image with bold text overlays on both the top and bottom, typically conveying a humorous or promotional message."
+  },
+  {
+    "adId": 51,
+    "imageUrl": "https://cco-public.s3.amazonaws.com/1e6aa6b3d534e8e7a68e820e0c65a0fb2463a74ac4a4d442364477ec969231c5.jpg",
+    "isNewFormat": true,
+    "formatName": "UI mimicry Notes App"
+  },
+  {
+    "adId": 52,
+    "imageUrl": "https://cco-public.s3.amazonaws.com/3ebf426b4835aa3e6246cc56482de01ab4b4707c04729eb13d113274a0ce5ea5.jpg",
+    "isNewFormat": true,
+    "formatName": "Meme Home Alone",
+    "formatDescription": "A layout using a recognizable meme structure, featuring a prominent image with bold text overlay at the top and bottom. Includes a thought bubble that highlights a product, merging humor with promotional content in a visually engaging way."
+  },
+  {
+    "adId": 53,
+    "imageUrl": "https://cco-public.s3.amazonaws.com/907b893db8da5008f2551a495584a0677475d7853c0e247171003f5e2e52177b.jpg", 
+    "isNewFormat": true,
+    "formatName": "Product grid with central headline",
+    "formatDescription": "A grid layout featuring multiple product images arranged around a prominent central text headline. The design emphasizes product variety while highlighting the main message with bold typography."
+  },
+  {
+    "adId": 54,
+    "imageUrl": "https://cco-public.s3.amazonaws.com/e0a44684078e306fcee8dadac43b90427dfccd0474ed6f19799ecf013c4fcca9.jpg",
+    "isNewFormat": false,
+    "formatName": "Split screen comparison",
+    "formatDescription": "A side-by-side comparison layout featuring product imagery on one side and a competing product illustration on the other. Overlay includes a checklist format highlighting product features, using bold text and graphic elements, to emphasize benefits and distinctions."
+  },
+  {
+    "adId": 55,
+    "imageUrl": "https://cco-public.s3.amazonaws.com/48c0e6b207c054810175dc6b9af19ae9ee1ddfcf74013f8641a1fa158b523527.jpg",
+    "isNewFormat": true,
+    "formatName": "Meme with public debate table setup",
+    "formatDescription": "A format using a recognizable meme structure featuring a person seated behind a table with a large banner displaying a provocative statement. The layout invites public interaction or debate, creating an engaging and controversial visual cue."
+  },
+  {
+    "adId": 56,
+    "imageUrl": "https://cco-public.s3.amazonaws.com/04322646c0905564145ff4fe817a8d8a0f28c5a3f9f083b5647db2812cb9f348.jpg",
+    "isNewFormat": true,
+    "formatName": "Santa with protest sign overlay",
+    "formatDescription": "A format featuring a person in a Santa costume holding a cardboard protest-style sign with text overlay. The design incorporates elements of holiday-themed imagery with promotional messaging, blending real-world mimicry with holiday motifs."
+  },
+  {
+    "adId": 57,
+    "imageUrl": "https://cco-public.s3.amazonaws.com/b4bb843f9def5a40c8d006dbc75e8cb0290736f8a11a0143cc4da74ec49d44da.jpg",
+    "isNewFormat": true,
+    "formatName": "Billboard with promotional text",
+    "formatDescription": "A format featuring a large billboard displaying bold promotional text. The design mimics real-world advertising boards, using strong typography to emphasize the message and create a striking visual appeal in an outdoor setting."
+  },
+  {
+    "adId": 58,
+    "imageUrl": "https://cco-public.s3.amazonaws.com/bfcf6769a64f159fd5ba04b6fdb8478768b10a954f8d6fce45f13e1864e4d5eb.jpg",
+    "isNewFormat": false,
+    "formatName": "Product lineup with central text overlay",
+    "formatDescription": "A vertically arranged product lineup placed against a solid background. Below the products, there is a prominent central text overlay highlighting key features or promotional messages, followed by additional informative text and a CTA button."
+  },
+  {
+    "adId": 59,
+    "imageUrl": "https://cco-public.s3.amazonaws.com/40d0aabef25217bb8a48985d47b8a7daa62721d2557b2717ec3a0c038efd011b.jpg",
+    "isNewFormat": true,
+    "formatName": "Product grid with post it notes",
+    "formatDescription": "A layout featuring products arranged in a grid format with prominent handwritten-style promotional notes overlay. The notes are styled as colorful paper cutouts with bold, eye-catching handwriting, emphasizing the offer and creating an informal and engaging presentation."
+  },
+  {
+    "adId": 60,
+    "imageUrl": "https://cco-public.s3.amazonaws.com/9f94456e17102af54996449f773020a048513302add0095afdf3a270f72ecf43.jpg",
+    "isNewFormat": true,
+    "formatName": "Lifestyle shot with bold text block overlay",
+    "formatDescription": "A layout featuring a lifestyle shot with a prominent overlay of a bold text block on the left side. The design uses large contrasting typography to draw attention, integrating a call-to-action line that encourages viewer engagement."
+  },
+  {
+    "adId": 61,
+    "imageUrl": "https://cco-public.s3.amazonaws.com/fb45268135632d1d116e5b064a0ae5842e2016316bf28335098ec36930fc307b.jpg",
+    "isNewFormat": true,
+    "formatName": "Promotional letter board mimicry",
+    "formatDescription": "A format that mimics a classic letter board with text arranged in a structured, grid-like style. The design uses a framed board background with interchangeable letters, creating a nostalgic and tactile appeal to convey promotional messaging."
+  },
+  {
+    "adId": 62,
+    "imageUrl": "https://cco-public.s3.amazonaws.com/79b39f8376ed2f46f35cab969a0228d5d264dca02212beb508db031886fe03fc.jpg",
+    "isNewFormat": false,
+    "formatName": "Santa with protest sign overlay",
+    "formatDescription": "A format featuring a person in a Santa costume holding a cardboard protest-style sign with text overlay. The design incorporates elements of holiday-themed imagery with promotional messaging, blending real-world mimicry with holiday motifs."
+  },
+  {
+    "adId": 63,
+    "imageUrl": "https://cco-public.s3.amazonaws.com/17a8aa12e3ba5286c44f0b8a4898998aba60a21762590692f1c4d70235e13f2f.jpg",
+    "isNewFormat": false,
+    "formatName": "Lifestyle shot with bold text block overlay",
+    "formatDescription": "A layout featuring a lifestyle image as the background with a prominent centered text block overlay. The text block covers a significant portion of the image and uses contrasting typography to deliver a strong message, integrating seamlessly with the visual context."
+  },
+  {
+    "adId": 64,
+    "imageUrl": "https://cco-public.s3.amazonaws.com/a8969edabc28294b1ac0083db948fe94274f2185ebfe3d14ca407a5588220da2.jpg",
+    "isNewFormat": true,
+    "formatName": "Whiteboard with handwritten text and product display",
+    "formatDescription": "A layout featuring a whiteboard with large handwritten text. Products are displayed on the board, creating an informal and direct promotional message. The design emphasizes the offer with bold typography set against the real-world mimicry of a classroom or office setting."
+  },
+  {
+    "adId": 65,
+    "imageUrl": "https://cco-public.s3.amazonaws.com/099e448388fef7656c9f5d9335f55306405a973dffbbdcae66e315c1567ae2ee.jpg",
+    "isNewFormat": true,
+    "formatName": "Chalkboard with handwritten message",
+    "formatDescription": "A visually distinct format featuring a chalkboard with a handwritten-style message, typically using chalk for an informal and educational appeal. This design mimics real-world classroom settings to convey a direct and impactful message."
+  },
+  {
+    "adId": 66,
+    "imageUrl": "https://cco-public.s3.amazonaws.com/47ee19cf04ba8235d862952c8cc8f2d460446d0e2c551402694e93fe529a8cd3.jpg",
+    "isNewFormat": false,
+    "formatName": "Santa with protest sign overlay",
+    "formatDescription": "A format featuring a person in a Santa costume holding a cardboard protest-style sign with text overlay. The design incorporates elements of holiday-themed imagery with promotional messaging, blending real-world mimicry with holiday motifs."
+  },
+  {
+    "adId": 67,
+    "imageUrl": "https://cco-public.s3.amazonaws.com/a6c921e33770538f64d44bb1fc642b066f8f9981618d713feff04b03cb1293df.jpg",
+    "isNewFormat": true,
+    "formatName": "Balloon text with bold headline overlay",
+    "formatDescription": "A layout featuring prominently styled balloon text for the main event announcement, paired with a bold headline overlay. The design emphasizes festive and eye-catching typography to draw attention to the promotional message, set against a dark background with bokeh effects."
+  },
+  {
+    "adId": 68,
+    "imageUrl": "https://cco-public.s3.amazonaws.com/4490d68f8194977c7db7fca1c02379eaaaad5ab1e1ef08b173798332e49c554d.jpg",
+    "isNewFormat": false,
+    "formatName": "Product close-up with feature icons and text labels",
+    "formatDescription": "A central product close-up flanked by illustrative icons with corresponding text labels, highlighting key features or ingredients. This layout emphasizes product attributes through visually distinct icons linked by connecting lines, set against a unified background with a call-to-action button."
+  },
+  {
+    "adId": 69,
+    "imageUrl": "https://cco-public.s3.amazonaws.com/7158776074b1b655be77f404a71259009cf02c801ecf5f152580f83933bd206d.jpg",
+    "isNewFormat": true,
+    "formatName": "Product close-up with circular offer badge",
+    "formatDescription": "This format features a product close-up prominently displayed in the center. A circular badge displaying a promotional message is overlaid on the upper section, while a bold text overlay below highlights the offer. The design integrates promotional messaging with product imagery."
+  },
+  {
+    "adId": 70,
+    "imageUrl": "https://cco-public.s3.amazonaws.com/98a870ab80bf7adbf86425bf320ff5e0de187328587036784dc03ced26c902cf.jpg",
+    "isNewFormat": true,
+    "formatName": "Us vs Them",
+    "formatDescription": "A grid layout featuring multiple product packages, each overlaid with bold origin tags that indicate manufacturing location. The design utilizes clear, contrasting text blocks to emphasize the origin information, combining product categorization with transparency messaging."
+  },
+  {
+    "adId": 71,
+    "imageUrl": "https://cco-public.s3.amazonaws.com/432fc31fb9151b934f1c8bf6a309531e3ee06948b23dcbc186b0c615842984d7.jpg",
+    "isNewFormat": false,
+    "formatName": "Testimonial block with product",
+    "formatDescription": "A format featuring a prominent testimonial quote displayed above a product close-up. The layout includes a clear call-to-action button beneath, combining user feedback with a promotional invitation to engage."
+  },
+  {
+    "adId": 72,
+    "imageUrl": "https://cco-public.s3.amazonaws.com/49c695b9e3d8159cb0e45e94c0bf490774f49d225c9ef569f005b5abd80a3c4d.jpg",
+    "isNewFormat": false,
+    "formatName": "Billboard with promotional text",
+    "formatDescription": "A format featuring a large billboard displaying bold promotional text. The design mimics real-world advertising boards, using strong typography to emphasize the message and create a striking visual appeal in an outdoor setting."
+  },
+  {
+    "adId": 73,
+    "imageUrl": "https://cco-public.s3.amazonaws.com/ec8b370b1efc0fa65b58b71ef4161f42a39185b251c90b7d63cda2307812e08b.jpg",
+    "isNewFormat": true,
+    "formatName": "Lifestyle shot with checklist overlay",
+    "formatDescription": "A lifestyle shot prominently featuring a family alongside a checklist of negative elements with strike-through text, indicating exclusion. The design includes bold text highlighting the brand message, combined with a call-to-action button."
+  },
+  {
+    "adId": 74,
+    "imageUrl": "https://cco-public.s3.amazonaws.com/cf170be81dd97a428b6fed23fbb148687205f6f9593cd142c0f42fdfc6c9fa31.jpg",
+    "isNewFormat": false,
+    "formatName": "Meme with top and bottom text overlay",
+    "formatDescription": "A layout using a recognizable meme structure, featuring a prominent image with bold text overlays on both the top and bottom, typically conveying a humorous or promotional message."
+  },
+  {
+    "adId": 75,
+    "imageUrl": "https://cco-public.s3.amazonaws.com/f568fb9167a52d103143596ab2286aaafa29da14d99be419b9d13186e4cb50d2.jpg",
+    "isNewFormat": true,
+    "formatName": "Product lineup with checklist title overlay",
+    "formatDescription": "A format featuring a lineup of product images positioned below a prominent checklist-style text block. The checklist outlines key undesirable ingredients to avoid, with each point clearly numbered. The design emphasizes product selection in relation to the outlined checklist criteria."
+  },
+  {
+    "adId": 76,
+    "imageUrl": "https://cco-public.s3.amazonaws.com/e12f4bf0d0701dfcdf476546f1d4e2b2bb04446b2f24f729dd02b99f8c48bef1.jpg",
+    "isNewFormat": false,
+    "formatName": "Lifestyle shot with bold text block overlay",
+    "formatDescription": "A layout featuring a lifestyle shot with a prominent overlay of a bold text block on the left side. The design uses large contrasting typography to draw attention, integrating a call-to-action line that encourages viewer engagement."
+  },
+  {
+    "adId": 77,
+    "imageUrl": "https://cco-public.s3.amazonaws.com/6a0314e49491aae49b2fd37ab272490033007fb0b6256c46d2331025f07ad390.jpg",
+    "isNewFormat": true,
+    "formatName": "Utility pole flyer mimicry with tear-off tabs",
+    "formatDescription": "A real-world mimicry format that models traditional utility pole flyers. It features bold typographic messaging on a single sheet of paper with tear-off tabs at the bottom. The design leverages everyday street advertising aesthetics, emphasizing direct and accessible communication."
+  },
+  {
+    "adId": 78,
+    "imageUrl": "https://cco-public.s3.amazonaws.com/b65de0d3080c07ffc966171e81061a57d0814dcb181a69b151f5df0464eb7366.jpg",
+    "isNewFormat": true,
+    "formatName": "Bold text with interactive debate prompt",
+    "formatDescription": "A format featuring a large, bold statement in the center with an interactive prompt below, encouraging user engagement. The design uses a gradient background to enhance visual appeal and focus attention on the provocative message."
+  },
+  {
+    "adId": 79,
+    "imageUrl": "https://cco-public.s3.amazonaws.com/0a33f9fdac90b1b0a7b36d043170ed3dd1f01b459e5d354cd97410fb9b435aff.jpg",
+    "isNewFormat": false,
+    "formatName": "Lifestyle shot with promotional text overlay",
+    "formatDescription": "A lifestyle shot prominently featuring a person using a product, accompanied by large, bold promotional text overlay. The layout emphasizes the offer and includes a call-to-action button, integrating the promotional message with the visual context."
+  },
+  {
+    "adId": 80,
+    "imageUrl": "https://cco-public.s3.amazonaws.com/1506159f05226bd106cefc876c06a12f85749f39c6a0fc9afc4ff985effcb575.jpg",
+    "isNewFormat": true,
+    "formatName": "Decision button meme with sweating character",
+    "formatDescription": "A layout using a recognizable meme structure featuring two decision buttons with labels, paired with an image of a sweating character below. This design humorously captures indecision or dilemma, using bold text overlays to highlight promotional offers."
+  },
+  {
+    "adId": 81,
+    "imageUrl": "https://cco-public.s3.amazonaws.com/93e02573b6f597ed055e77e56fea17b94f682db1ff41ec472eea03a79eff67d5.jpg",
+    "isNewFormat": false,
+    "formatName": "Split screen comparison",
+    "formatDescription": "A side-by-side comparison format featuring product imagery, each with associated icons indicating pros and cons. The design includes bold text for benefits and drawbacks, creating a clear visual distinction between product advantages and disadvantages."
+  },
+  {
+    "adId": 82,
+    "imageUrl": "https://cco-public.s3.amazonaws.com/4595f000b9855cdd5d340606673b8f483dcbc7cff1d12659dc426a3615e63187.jpg",
+    "isNewFormat": false,
+    "formatName": "Product close-up with before-and-after comparison",
+    "formatDescription": "A layout featuring a product close-up alongside a side-by-side before-and-after image comparison. The upper section includes a promotional text banner for offers, while focusing on product efficacy and results."
+  },
+  {
+    "adId": 83,
+    "imageUrl": "https://cco-public.s3.amazonaws.com/593222821b1b419bd33b4aeaf8940dd6759e8979c63dd537425eb3f531b94b88.jpg",
+    "isNewFormat": true,
+    "formatName": "Halloween theme with bold text overlay",
+    "formatDescription": "A visually distinct format featuring Halloween themed imagery, such as carved pumpkins with glowing interiors, accompanied by a bold text overlay. This design leverages seasonal motifs to create a strong, thematic visual message."
+  },
+  {
+    "adId": 84,
+    "imageUrl": "https://cco-public.s3.amazonaws.com/a4c5a073b85256bc45bf267b6aa3d8d6b74df234275dc9971d15ff01c7bb9c7c.jpg",
+    "isNewFormat": true,
+    "formatName": "Lifestyle shot with oversized checklist-like text overlay",
+    "formatDescription": "A format featuring a lifestyle shot in a shopping environment, overlaid with a checklist-style text. This incorporates symbols and bold statements to communicate a critical message or decision, emphasizing product choice and health alternatives."
+  },
+  {
+    "adId": 85,
+    "imageUrl": "https://cco-public.s3.amazonaws.com/03cac4fab1208da08d034b1734a47563c7aec7cf31b11a26695eb89b6324942c.jpg",
+    "isNewFormat": true,
+    "formatName": "Lifestyle shot with bottom ranked list overlay",
+    "formatDescription": "A format featuring a lifestyle shot in the background with a prominent ranked list overlay at the bottom. The list includes product images and descriptive text, emphasizing a comparative evaluation of featured items."
+  },
+  {
+    "adId": 86,
+    "imageUrl": "https://cco-public.s3.amazonaws.com/7112f6caa43c086e80af45439e3152591f8bdbdc8f5bb6bc8f9a5bfdd4cb8a95.jpg",
+    "isNewFormat": true,
+    "formatName": "Lifestyle shot with upside down large text",
+    "formatDescription": "A layout featuring a lifestyle shot with a prominent overlay of a bold text block on the left side. The design uses large contrasting typography to draw attention, integrating a call-to-action line that encourages viewer engagement."
+  },
+  {
+    "adId": 87,
+    "imageUrl": "https://cco-public.s3.amazonaws.com/a2a81d3d584c49de5b337a663793a1743cd1141271db162e6a78fb540bf86e36.jpg",
+    "isNewFormat": false,
+    "formatName": "Lifestyle shot with bottom ranked list overlay",
+    "formatDescription": "A format featuring a lifestyle shot in the background with a prominent ranked list overlay at the bottom. The list includes product images and descriptive text, emphasizing a comparative evaluation of featured items."
+  },
+  {
+    "adId": 88,
+    "imageUrl": "https://cco-public.s3.amazonaws.com/5667224c37d29855d23641820674db79efe18f0c5264305b009b8e8285c377b1.jpg",
+    "isNewFormat": true,
+    "formatName": "Real-world mimicry with Post-It note overlay",
+    "formatDescription": "This format features a real-world mimicry design using a prominent Post-It note. The handwritten note highlights key messaging, set against a backdrop showcasing the product in use. The layout leverages everyday office aesthetics to convey an informal and relatable message."
+  },
+  {
+    "adId": 89,
+    "imageUrl": "https://cco-public.s3.amazonaws.com/afdde21be580a76bf0721eead4566a4c80d2cfbfef47cb8dcf06ec2035363ee2.jpg",
+    "isNewFormat": true,
+    "formatName": "Educational program category grid with call-to-action button",
+    "formatDescription": "A structured grid layout presenting categories of educational programs, each with a list of related fields. The design includes a prominent call-to-action button at the bottom, inviting interactive engagement. The layout uses decorative seasonal elements to enhance the visual appeal."
+  },
+  {
+    "adId": 90,
+    "imageUrl": "https://cco-public.s3.amazonaws.com/4ad827a03b469f42dde054a1989f149ed5bc2f1b4691bf3c9db2480a304a14ad.jpg",
+    "isNewFormat": false,
+    "formatName": "Lifestyle shot with with text overlay",
+    "formatDescription": "A lifestyle shot depicting a professional scene with a prominent bold text overlay on the left. The design features a call-to-action button at the bottom, integrating the instructional theme with a clear motivational message."
+  },
+  {
+    "adId": 91,
+    "imageUrl": "https://cco-public.s3.amazonaws.com/e5f8b0f3080c0cb44b6e9ec800380a8ceb26d3e30d7808949fe2c822afc47b1b.jpg",
+    "isNewFormat": false,
+    "formatName": "UI mimicry Notes App",
+    "formatDescription": "A format mimicking a digital note-taking interface with a checklist on the left. The right side features a stack of product packages, creating a balanced emphasis between the evaluation criteria and product options."
+  },
+  {
+    "adId": 92,
+    "imageUrl": "https://cco-public.s3.amazonaws.com/fc5e68e882ce018887fb33ec9f773f275a2f7b87bad43da47e4643b250c60901.jpg",
+    "isNewFormat": true,
+    "formatName": "Lifestyle shot with UI mimicry text box overlay",
+    "formatDescription": "A lifestyle shot featuring a person using a laptop, overlaid with a text box designed to mimic a digital interface. The text box contains a headline, descriptive text, and a prominent call-to-action button, integrating elements of digital interaction within the visual context."
+  },
+  {
+    "adId": 93,
+    "imageUrl": "https://cco-public.s3.amazonaws.com/353f3414603082b93586a5aa2dbc0ff49f5560d95aa9608a00c4011dbe8324f5.jpg",
+    "isNewFormat": true,
+    "formatName": "Educational program grid with quiz prompt",
+    "formatDescription": "A structured grid layout featuring various educational program categories, each represented by colorful square buttons with text labels and question marks. The grid is presented with a bold headline above, encouraging participation in an online quiz. At the bottom, a prominent call-to-action button invites user engagement. The layout uses vibrant colors and simple graphics to effectively convey an interactive quiz format."
+  },
+  {
+    "adId": 94,
+    "imageUrl": "https://cco-public.s3.amazonaws.com/01b635b26ab35993030046230dad52b0826e5245a2056be486969ec0b51da116.jpg",
+    "isNewFormat": true,
+    "formatName": "Educational program category grid with call-to-action button",
+    "formatDescription": "A structured grid layout presenting categories of educational programs, each with a list of related fields. The design includes a prominent call-to-action button at the bottom, inviting interactive engagement. The layout uses decorative seasonal elements to enhance the visual appeal."
+  },
+  {
+    "adId": 95,
+    "imageUrl": "https://cco-public.s3.amazonaws.com/71051ef862386e9255c76e03632b54452fe19a445c2c02ad0bad12c260599421.jpg",
+    "isNewFormat": false,
+    "formatName": "Educational program category grid with call-to-action button",
+    "formatDescription": "A structured grid layout presenting categories of educational programs, each with a list of related fields. The design includes a prominent call-to-action button at the bottom, inviting interactive engagement. The layout uses decorative seasonal elements to enhance the visual appeal."
+  },
+  {
+    "adId": 96,
+    "imageUrl": "https://cco-public.s3.amazonaws.com/bebeb857b4d648e8d120a1e47f09b81aee5ad99c6390dac198eed24edfb65b06.jpg",
+    "isNewFormat": true,
+    "formatName": "Stop sign with bold text overlay",
+    "formatDescription": "A format featuring a stop sign shape prominently displayed in the center against a textured brick background. The design includes bold text overlay in contrasting colors to communicate a strong and urgent message, blending real-world mimicry with promotional content."
+  },
+  {
+    "adId": 97,
+    "imageUrl": "https://cco-public.s3.amazonaws.com/3902557d0fe3704ed31dcf9c71c756773ab2fe78a29f9765e08176c1b6c12a1f.jpg",
+    "isNewFormat": false,
+    "formatName": "Product close-up with text overlay",
+    "formatDescription": "A layout featuring a product close-up prominently displayed on the right with an accompanying bold text overlay on the left. The design integrates a strong call-to-action button beneath the text, creating a focus on the promotional message while emphasizing the product's context."
+  },
+  {
+    "adId": 98,
+    "imageUrl": "https://cco-public.s3.amazonaws.com/3fc2bbf314c787c65ef821723f5a13778758378b7bbf354c886a0759bb81622f.jpg",
+    "isNewFormat": false,
+    "formatName": "Lifestyle shot with text overlay",
+    "formatDescription": "A layout featuring a lifestyle shot with the back view. On the left side, prominent text overlay provides an educational prompt to engage in a quiz. The design integrates clear typography with a call-to-action button, creating a focus on educational engagement within a lifestyle context."
+  },
+  {
+    "adId": 99,
+    "imageUrl": "https://cco-public.s3.amazonaws.com/16db284c072b4729d73e1d6746adcbf19a82e7dbdc942e1976574ba1f410ff74.jpg",
+    "isNewFormat": false,
+    "formatName": "Educational program category grid with call-to-action button",
+    "formatDescription": "A structured grid layout presenting categories of educational programs, each with a list of related fields. The design includes a prominent call-to-action button at the bottom, inviting interactive engagement. The layout uses decorative seasonal elements to enhance the visual appeal."
+  },
+  {
+    "adId": 100,
+    "imageUrl": "https://cco-public.s3.amazonaws.com/63b5829e2899446a6d549aca6cad1ba615445fa553d854da6bbf0a849ce9057b.jpg",
+    "isNewFormat": false,
+    "formatName": "Lifestyle shot with text overlay",
+    "formatDescription": "A layout featuring a lifestyle shot with the back view. On the left side, prominent text overlay provides an educational prompt to engage in a quiz. The design integrates clear typography with a call-to-action button, creating a focus on educational engagement within a lifestyle context."
+  },
+  {
+    "adId": 101,
+    "imageUrl": "https://cco-public.s3.amazonaws.com/26f5906ad896739c1b86c7cd88050daa86198ed00bcaf11d3c6dcbf66d4f67dd.jpg",
+    "isNewFormat": true,
+    "formatName": "Educational program tree",
+    "formatDescription": "A visually structured layout featuring an illustrated tree with branch categories representing various educational fields. Each branch includes a list of study options under headers like Healthcare and Technology. A prominent quiz prompt sits in the corner, inviting viewer interaction, with vibrant colors enhancing visual appeal and interactive engagement."
+  },
+  {
+    "adId": 102,
+    "imageUrl": "https://cco-public.s3.amazonaws.com/0575d53513db42bf86ec9d157bb00c7696584807a40d8b9b2f2ebacb2be8bb31.jpg",
+    "isNewFormat": false,
+    "formatName": "Educational program category grid with call-to-action button",
+    "formatDescription": "A structured grid layout presenting categories of educational programs, each with a list of related fields. The design includes a prominent call-to-action button at the bottom, inviting interactive engagement. The layout uses decorative seasonal elements to enhance the visual appeal."
+  },
+  {
+    "adId": 103,
+    "imageUrl": "https://cco-public.s3.amazonaws.com/26623df73133c76db8f802d2189a8e699f53260890bec503e68ec1e66c4e3534.jpg",
+    "isNewFormat": false,
+    "formatName": "Educational program category grid with call-to-action button",
+    "formatDescription": "A structured grid layout presenting categories of educational programs, each with a list of related fields. The design includes a prominent call-to-action button at the bottom, inviting interactive engagement. The layout uses decorative seasonal elements to enhance the visual appeal."
+  },
+  {
+    "adId": 104,
+    "imageUrl": "https://cco-public.s3.amazonaws.com/95ea4b02e3d5c439f8a73d2b8dd6fdb1363b8353293f60738fc3ac6dd13d5bdf.jpg", 
+    "isNewFormat": true,
+    "formatName": "Product display with colorful graphic elements",
+    "formatDescription": "A layout featuring a central product display surrounded by vibrant graphic elements. The design incorporates bold textual overlays with a promotional offer and vibrant illustrations to draw attention, creating an engaging and energetic visual appeal."
+  },
+  {
+    "adId": 105,
+    "imageUrl": "https://cco-public.s3.amazonaws.com/c1c78b530c7b1525497029fe444431b7af7a738991f938c0e2ff57d077861a54.jpg",
+    "isNewFormat": false,
+    "formatName": "Product close-up with feature icons and text labels",
+    "formatDescription": "A central product close-up flanked by illustrative icons with corresponding text labels, highlighting key features or ingredients. This layout emphasizes product attributes through visually distinct icons linked by connecting lines, set against a unified background with a call-to-action button."
+  },
+  {
+    "adId": 106,
+    "imageUrl": "https://cco-public.s3.amazonaws.com/abe93550dec6d4a64d38d36a1a7d15c99714f54153a739c6874a5517830cad31.jpg",
+    "isNewFormat": true,
+    "formatName": "App Screenshot with text overlay",
+    "formatDescription": "A layout mimicking a digital UI featuring a categorized grid of templates. The left sidebar displays a list of categories, while the main section presents various templates with preview images arranged in a structured grid. This design integrates a digital organizational interface with visual previews to guide user selection."
+  }
+]
