@@ -160,8 +160,8 @@ def main(args):
     ads_stream = load_json(args.ads_input)
     golden_ads = load_json(args.golden_output)
 
-    # predictions = detect_novelty(ads_stream)
-    # save_json(predictions, args.output)
+    predictions = detect_novelty(ads_stream)
+    save_json(predictions, args.output)
     predictions = load_json(args.output)
     evaluate_predictions(ads_stream, predictions, golden_ads)
 
