@@ -40,7 +40,7 @@ def detect_novelty(ads_list):
         - Clearly reference the primary defining visual attribute.
 
         For Structural Layout, include the dominant content type (headline, lifestyle shot, studio shot, product close-up, offer badge) but NOT specific details (e.g., do NOT specify 'woman on a beach').
-        In general format name and format description not never be speicifc to the contnet type or advertiser-specific content.
+        In general format name and format description not never be speicifc to the content type or advertiser-specific content.
         In terms of permissible dominant content types that deserve contributing to format name and format description, only include the following:
         - Lifestyle shot
         - Studio shot
@@ -84,7 +84,11 @@ def detect_novelty(ads_list):
 
         try:
             prediction = json.loads(response.choices[0].message.content)
-            print(prediction, ad['adId'], ad['imageUrl'])
+            print("\nPrediction for Ad ID:", ad['adId'])
+            print("Image URL:", ad['imageUrl'])
+            print("Format Details:")
+            print(json.dumps(prediction, indent=2))
+            print("-" * 80)
         except Exception as e:  # Catch any errors during parsing
             print(f"Parsing error: {e}")
             prediction = {"isNewFormat": False, "formatName": "Unknown Format"}
@@ -163,7 +167,7 @@ def main(args):
     predictions = detect_novelty(ads_stream)
     save_json(predictions, args.output)
     predictions = load_json(args.output)
-    evaluate_predictions(ads_stream, predictions, golden_ads)
+    evaluate_predictions(predictions, golden_ads)
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description='Novel Format Finder Evaluation Script')
